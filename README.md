@@ -1,5 +1,5 @@
 # Minishell
-A Mini Shell Project done with Lomeniga
+A Mini Shell Project done with Lomeniga.
 
 # Shell Screen
 ![image](https://user-images.githubusercontent.com/44801448/216525475-a9330c9f-944e-4d46-9ea2-fdf2fa5836c2.png)
